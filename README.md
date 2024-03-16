@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=timeGradient&text=Ângela%20Chantal&fontColor=black&rotate=0&fontSize=45&fontAlign=80&fontAlignY=41&descAlign=77&animation=fadeIn&strokeWidth=0.5&stroke=0000FF&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&text=Ângela%20Chantal&fontColor=black&rotate=0&fontSize=45&fontAlign=20&fontAlignY=41&descAlign=77&animation=fadeIn&strokeWidth=0.5&stroke=0000FF&reversal=true"/>
                    
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/angelachantal/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:angela_chantal@yahoo.com.br)
