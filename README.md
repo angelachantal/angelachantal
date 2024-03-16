@@ -1,10 +1,9 @@
 # Ângela Chantal
 
+Mestre em Intervenção Social, Inovação e Empreendedorismo - Universidade de Coimbra.
+Servidora Pública do Município de Teresina/PI
 Estudante do Curso Técnico de Desenvolvimento de Sistemas do Instituto Federal do Piauí - IFPI.
 
-### Redes Sociais
-
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/angelapschantal)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/angelachantal/)
 
 ### GitHub Stats
