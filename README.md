@@ -1,10 +1,10 @@
 # Ângela Chantal
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/angelachantal/)
 
 Mestre em Intervenção Social, Inovação e Empreendedorismo - Universidade de Coimbra.
 Servidora Pública do Município de Teresina/PI
 Estudante do Curso Técnico de Desenvolvimento de Sistemas do Instituto Federal do Piauí - IFPI.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/angelachantal/)
 
 ### GitHub Stats
 
