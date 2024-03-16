@@ -19,5 +19,5 @@ Estudante do Curso Técnico de Desenvolvimento de Sistemas do Instituto Federal 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelachantal&theme=algolia&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelachantal&theme=transparent&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=angelachantal&layout=compact&bg_color=000&border_color=30A3DC&title_color=1E90FF&text_color=FFF)
