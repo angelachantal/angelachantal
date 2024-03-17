@@ -4,6 +4,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:angela_chantal@yahoo.com.br)
 [![My profile DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DER?style=for-the-badge)](https://www.dio.me/users/angelapschantal)
 <a href="https://kaggle.com/angelachantal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="angelachantal" height="30" width="40" /></a>
+
 Mestre em Intervenção Social, Inovação e Empreendedorismo - Universidade de Coimbra.
 
 Servidora Pública do Município de Teresina/PI
