@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&text=Ângela%20Chantal&fontColor=black&rotate=0&fontSize=45&fontAlign=20&fontAlignY=41&descAlign=77&animation=fadeIn&strokeWidth=0.5&stroke=0000FF&reversal=true"/>
+# Ângela Chantal 
                    
 Mestre em Intervenção Social, Inovação e Empreendedorismo - Universidade de Coimbra.
 
