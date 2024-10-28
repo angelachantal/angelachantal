@@ -22,6 +22,7 @@ Estudante do Curso Técnico de Desenvolvimento de Sistemas do Instituto Federal 
 ![Python](https://img.shields.io/badge/Python-438284?style=for-the-badge&logo=python&logoColor=b0cece)
 ![HTML5](https://img.shields.io/badge/HTML5-438284?style=for-the-badge&logo=html5&logoColor=b0cece)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 ## GitHub Stats
